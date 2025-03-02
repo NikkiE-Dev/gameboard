@@ -10,7 +10,8 @@ body {
 
 .game-board {
     display: grid;
-    margin: 0;
+    padding-top: 5%;
+    /* margin: 0; */
     grid-template: repeat(6, auto)/repeat(6, auto); /* 6 columns & 6 rows*/
     gap: 5px; /* gap between tiles */
 }
