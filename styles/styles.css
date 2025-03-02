@@ -1,0 +1,54 @@
+.topheader{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+body{
+    background-color: aquamarine;
+}
+a{
+    font-size: 20px;
+}
+.button1{
+    background-color: aqua;
+}
+button{
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+div.linkbuttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+div.headerwords{
+    margin: auto;
+    width: 25%;
+    padding: 10px;
+    padding-bottom: 30px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+.L{
+    color: red;
+}
+.G{ 
+    color: orange;
+}
+.B{
+    color:yellow;
+}
+.T{
+    color: green;
+}
+.Q{
+    color: #004CFF;
+}
+.A{
+    color: #732982;
+}
+div.left{
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}

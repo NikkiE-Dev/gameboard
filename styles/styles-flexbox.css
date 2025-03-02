@@ -1,0 +1,68 @@
+body{
+    background-color: black;
+}
+.top_tiles{
+    height: 100px;
+    width: 240px;
+    text-align: center;
+    align-content: center;
+    background-color: blueviolet;
+}
+.twohundred{
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    justify-content: space-evenly;
+    height: 100px;
+    width: 240px;
+   
+}
+.fourhundred{
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    padding: 10px;
+    height: 100px;
+}
+.sixhundred{
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    padding: 10px;
+    height: 100px;
+}
+.eighthundred{
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    padding: 10px;
+    height: 100px;
+}
+.onethousand{
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    padding: 10px;
+    height: 100px;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    flex-flow: nowrap;
+    justify-content: space-between;
+    height: 100px;
+    padding: 10px;
+}
+.tiles{
+    height: 100px;
+    width: 200px;
+    text-align: center;
+    align-content: center;
+    border: 150px green;
+    background-color: blueviolet;
+} 
